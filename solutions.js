@@ -182,7 +182,7 @@ function filter(array, predicate) {
   return acc;
 }
 
-/* solution to last problem, new vversion of filter to handle object
+/* solution to last problem, new version of filter to handle object
 
 function filter(coll, predicate) {
   
